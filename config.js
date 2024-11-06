@@ -63,7 +63,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true", //Whatsapp Group ලින්ක් 
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "true", // හැම වෙලේම ඔන්ලයි ඉන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_TYPING : process.env.AUTO_TYPING || "false",
-AUTO_RECORDING : process.env.AUTO_RECORDING || "true", //ඔටෝ රෙකෝඩින් පෙන්නන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
+AUTO_RECORDING : process.env.AUTO_RECORDING || "false", //ඔටෝ රෙකෝඩින් පෙන්නන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 OWNER_NUMBER : process.env.OWNER_NUMBER || "94759329023", // ඔයාගෙ නම්බරේ ඔතනට දාගන්න මුලට 94 තියෙන්න ඕනි 0 දාන්න එපා !
 DELCHAT : process.env.DELCHAT || "pm",
 FOOT : process.env.FOOT || "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
